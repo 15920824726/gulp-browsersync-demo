@@ -1,0 +1,17 @@
+$fontStack:    Helvetica, sans-serif;
+$primaryColor: #333;
+
+body {
+  font-family: $fontStack;
+  color: $primaryColor;
+  #di{
+    color: red;
+  }
+  #btn{
+    color:yellowgreen;
+  }
+  #btn1{
+    color: pink;
+  }
+}
+

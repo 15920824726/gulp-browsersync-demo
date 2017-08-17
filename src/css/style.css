@@ -1,0 +1,9 @@
+body {
+  font-family: Helvetica, sans-serif;
+  color: #333; }
+  body #di {
+    color: red; }
+  body #btn {
+    color: yellowgreen; }
+  body #btn1 {
+    color: pink; }
